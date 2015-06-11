@@ -8,7 +8,7 @@ var user = new User({
   provider: 'local',
   name: 'Fake User',
   email: 'test@test.com',
-  password: 'password'
+  password: 'password1'
 });
 
 describe('User Model', function() {
